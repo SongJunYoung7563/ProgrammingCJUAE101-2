@@ -4,7 +4,6 @@ int rec_func(int n);
 
 int rec_func(int n)
 {
-	int result = 0;
 	if (n <= 1) return n;
 	else return n + rec_func(n - 1);
 	
