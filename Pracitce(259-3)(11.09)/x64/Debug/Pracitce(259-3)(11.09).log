@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Pracitce(259-3)(11.09)\main.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Pracitce(259-3)(11.09)\main.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Pracitce(259-3)(11.09)\main.cpp(14,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Pracitce(259-3)(11.09)\main.cpp(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Pracitce(259-3)(11.09)\main.cpp(16,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Pracitce(259-3)(11.09).vcxproj -> C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Pracitce(259-3)(11.09)\x64\Debug\Pracitce(259-3)(11.09).exe

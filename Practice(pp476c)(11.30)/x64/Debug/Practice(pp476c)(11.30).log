@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(pp476c)(11.30)\main.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(pp476c)(11.30)\main.cpp(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Practice(pp476c)(11.30).vcxproj -> C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(pp476c)(11.30)\x64\Debug\Practice(pp476c)(11.30).exe
