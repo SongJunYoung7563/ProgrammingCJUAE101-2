@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\main.cpp(15,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'score' 왼쪽은 무시됩니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\main.cpp(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\main.cpp(27,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\main.cpp(29,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\main.cpp(30,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\main.cpp(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Practice(structC)(12.14).vcxproj -> C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2023\Practice(structC)(12.14)\x64\Debug\Practice(structC)(12.14).exe
