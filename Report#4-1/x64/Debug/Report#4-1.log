@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-1\main.cpp(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Report#4-1.vcxproj -> C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-1\x64\Debug\Report#4-1.exe
