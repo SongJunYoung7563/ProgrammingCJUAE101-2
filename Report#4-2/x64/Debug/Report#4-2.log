@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-2\main.cpp(16,8): warning C4778: 'scanf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-2\main.cpp(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-2\main.cpp(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-2\main.cpp(46,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Report#4-2.vcxproj -> C:\Users\s8092\OneDrive\문서\GitHub\ProgrammingCJUAE101-2023\Report#4-2\x64\Debug\Report#4-2.exe
